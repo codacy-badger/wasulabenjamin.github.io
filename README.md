@@ -12,7 +12,7 @@
 [![Codacy Badge](https://api.codacy.com/project/badge/Grade/2284be5d7daf4a0fb462c831ed9aced5)](https://app.codacy.com/app/wasulabenjamin/wasulabenjamin.github.io?utm_source=github.com&utm_medium=referral&utm_content=wasulabenjamin/wasulabenjamin.github.io&utm_campaign=Badge_Grade_Dashboard)
 [![Release](https://jitpack.io/v/wasulabenjamin/wasulabenjamin.github.io.svg)](https://jitpack.io/#wasulabenjamin/wasulabenjamin.github.io)
 ![GitHub](https://img.shields.io/github/license/wasulabenjamin/wasulabenjamin.github.io)
-<!-- [![HitCount](http://hits.dwyl.io/wasulabenjamin/wasulabenjamin.github.io.svg)](http://hits.dwyl.io/wasulabenjamin/wasulabenjamin.github.io) -->
+[![HitCount](http://hits.dwyl.io/wasulabenjamin/wasulabenjamin.github.io.svg)](http://hits.dwyl.io/wasulabenjamin/wasulabenjamin.github.io)
 
 # Introduction
 Personal portfolio web template, [see](https://rebrand.ly/benjah-portfolio)
@@ -22,12 +22,12 @@ Personal portfolio web template, [see](https://rebrand.ly/benjah-portfolio)
 - CSS3
 - Javascript
 
-# Usage
+## Usage
 - Fork repository and clone it locally
 - Customize the content inside the `index.html` and also remember to edit images accordingly
 - Publish your site
 
-**NOTE** Please share the goodness of this awesome web template by sharing it & don't forget leaving a star on the repo.
+Please share the goodness of this awesome web template by sharing it & don't forget leaving a star on the repository.
 
 # Bugs and Feature Requests
 Have a bug or a feature request? **Here is to how you can help:** 
@@ -37,7 +37,8 @@ Have a bug or a feature request? **Here is to how you can help:**
 [Please request a feature](https://github.com/wasulabenjamin/wasulabenjamin.github.io/issues/new?template=feature_request.md).
 
 # Contributing
-This is an open source portfolio web template, any contributions will be highly appreciated.
+This is an open source portfolio web template, therefore developers are encouraged to contribute and help maintain the 
+project throughout its life cycle. All contributions will be highly appreciated.
 
 Looking to contribute something to this template?
 
